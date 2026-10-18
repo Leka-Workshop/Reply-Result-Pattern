@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- ASP.NET Core integration: Problem Details mapping + global exception handler. -->
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExceptionHandling\ExceptionHandling.csproj" />
+  </ItemGroup>
+
+</Project>

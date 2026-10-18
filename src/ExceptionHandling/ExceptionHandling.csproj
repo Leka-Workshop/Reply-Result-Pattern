@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Core library: zero dependencies, no ASP.NET Core references. -->
+
+</Project>
